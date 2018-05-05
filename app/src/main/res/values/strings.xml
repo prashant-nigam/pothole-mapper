@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pothole Mapper</string>
+    <string name="title_activity_maps">Potholes Map</string>
+</resources>
